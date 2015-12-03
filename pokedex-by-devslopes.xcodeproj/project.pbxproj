@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		067C3D131C105CB700952122 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 067C3D121C105CB700952122 /* pokemon.csv */; };
 		06D1C92C1C0FC34A00FB21C6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D1C92B1C0FC34A00FB21C6 /* AppDelegate.swift */; };
 		06D1C92E1C0FC34A00FB21C6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D1C92D1C0FC34A00FB21C6 /* ViewController.swift */; };
 		06D1C9311C0FC34A00FB21C6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 06D1C92F1C0FC34A00FB21C6 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		067C3D121C105CB700952122 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 		06D1C9281C0FC34A00FB21C6 /* pokedex-by-devslopes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "pokedex-by-devslopes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		06D1C92B1C0FC34A00FB21C6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		06D1C92D1C0FC34A00FB21C6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				06D1C9321C0FC34A00FB21C6 /* Assets.xcassets */,
 				06D1C9341C0FC34A00FB21C6 /* LaunchScreen.storyboard */,
 				06D1C9371C0FC34A00FB21C6 /* Info.plist */,
+				067C3D121C105CB700952122 /* pokemon.csv */,
 			);
 			path = "pokedex-by-devslopes";
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			files = (
 				06D1C9361C0FC34A00FB21C6 /* LaunchScreen.storyboard in Resources */,
 				06D1C9331C0FC34A00FB21C6 /* Assets.xcassets in Resources */,
+				067C3D131C105CB700952122 /* pokemon.csv in Resources */,
 				06D1C9311C0FC34A00FB21C6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -283,6 +287,7 @@
 				06D1C93C1C0FC34A00FB21C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
