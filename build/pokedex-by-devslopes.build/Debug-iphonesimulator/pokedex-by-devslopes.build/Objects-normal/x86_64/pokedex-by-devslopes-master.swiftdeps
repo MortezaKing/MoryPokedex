@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.100.4 clang-700.1.75)"
+options: "2067cf00230e666f82a228dae54d0008"
+build_time: [502417484, 580069000]
+inputs:
+  "/Users/mortezakordi/Documents/pokedex-by-devslopes/pokedex-by-devslopes/ViewController.swift": [502417482, 0]
+  "/Users/mortezakordi/Documents/pokedex-by-devslopes/pokedex-by-devslopes/AppDelegate.swift": [502417482, 0]
